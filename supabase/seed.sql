@@ -1,0 +1,2 @@
+-- TODO: Add development-only seed data after schema and constraints are implemented.
+-- Never seed demo data into production.
